@@ -17,7 +17,6 @@ pcie_diag/
 ├── pcie_strings.c    # LTSSM / speed / TLP type string tables
 ├── pcie_link.c       # link retrain
 ├── pcie_atu.c        # outbound iATU region dump
-├── pcie_aer.c        # AER inject helpers
 ├── pcie_debugfs.c    # all debugfs file operations
 └── Makefile
 ```
